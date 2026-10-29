@@ -17,8 +17,6 @@
   <a href="mailto:maximoprosperireynoso@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-1f1812?style=for-the-badge&logo=gmail&logoColor=cca933&labelColor=120e0a" alt="Email" />
   </a>
-  &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Xami650&label=Profile%20Views&color=cca933&style=for-the-badge&labelColor=120e0a" alt="Profile views" />
 </p>
 
 </div>
